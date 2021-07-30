@@ -1,0 +1,19 @@
+{
+  "name": "ceevee",
+  "version": "1.0.0",
+  "description": "\"# Ester800.github.io\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ester800/Ester800.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ester800/Ester800.github.io/issues"
+  },
+  "homepage": "https://github.com/Ester800/Ester800.github.io#readme"
+}
