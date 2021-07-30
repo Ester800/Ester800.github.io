@@ -356,15 +356,15 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 80%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes solidity {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes python {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
@@ -376,7 +376,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes smartcontracts {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
