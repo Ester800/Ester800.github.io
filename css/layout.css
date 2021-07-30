@@ -360,11 +360,11 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes solidity {
+@-moz-keyframes illustrator {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes python {
+@-moz-keyframes wordpress {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
@@ -376,7 +376,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes smartcontracts {
+@-moz-keyframes jquery {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
